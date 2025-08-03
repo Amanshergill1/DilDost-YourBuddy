@@ -2,6 +2,7 @@
 
 **DilDost** is your emotional companion – a Streamlit-powered AI chatbot and wellness hub designed to support mental health with love, empathy, and calmness.The games in this project are also very good for the brain. Whether you're feeling low, anxious, or just need a friend, DilDost is always here for you.
 
+![logo](https://github.com/Amanshergill1/DilDost-YourBuddy/blob/main/DilDost%20-%20Copy/file.3.jpg)
 ---
 
 ## 🌟 Features
