@@ -34,5 +34,5 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/DilDost-YourBuddy.git
+https://github.com/Amanshergill1/DilDost-YourBuddy
 cd DilDost-YourBuddy
